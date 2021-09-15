@@ -11,13 +11,28 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGo />
+        <a 
+          href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Amgutierrez98+is%3Aclosed"
+          style={{ color: "white" }}
+        >
+          <DiGo />
+        </a>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
+        <a 
+          href="https://github.com/mgutierrez98/Recruiter-Web-Scraper"
+          style={{ color: "white" }}
+        >
+          <DiJava />
+        </a>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+      <Col xs={4} md={2} className="tech-icons" href="www.google.com">
+        <a 
+          href="https://github.com/mgutierrez98/Emotion-Based-Music-Curator"
+          style={{ color: "white" }}
+        >
+          <DiPython />
+        </a>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />

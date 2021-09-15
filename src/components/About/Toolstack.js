@@ -14,7 +14,7 @@ function Toolstack() {
         <SiLinux />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiDigitalocean />
+          <SiDigitalocean />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiKubernetes />
