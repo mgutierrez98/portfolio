@@ -1,5 +1,5 @@
 <h2 align="center">
-  Manuel Gutierrez Portfolio<br/>
+  Manuel Gutierrez Portfolio
 </h2>
 
 ## Built With
