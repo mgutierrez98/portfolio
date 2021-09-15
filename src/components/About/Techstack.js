@@ -14,6 +14,8 @@ function Techstack() {
         <a 
           href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Amgutierrez98+is%3Aclosed"
           style={{ color: "white" }}
+          target="_blank" 
+          rel="noopener noreferrer"
         >
           <DiGo />
         </a>
@@ -22,6 +24,8 @@ function Techstack() {
         <a 
           href="https://github.com/mgutierrez98/Recruiter-Web-Scraper"
           style={{ color: "white" }}
+          target="_blank" 
+          rel="noopener noreferrer"
         >
           <DiJava />
         </a>
@@ -30,6 +34,8 @@ function Techstack() {
         <a 
           href="https://github.com/mgutierrez98/Emotion-Based-Music-Curator"
           style={{ color: "white" }}
+          target="_blank" 
+          rel="noopener noreferrer"
         >
           <DiPython />
         </a>
