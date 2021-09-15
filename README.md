@@ -1,7 +1,3 @@
-<h2 align="center">
-  Manuel Gutierrez Portfolio
-</h2>
-
 ## Built With
 
 My personal <a href="https://manuel-gutierrez-portfolio.herokuapp.com/" target="_blank">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
