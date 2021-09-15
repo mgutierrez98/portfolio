@@ -1,6 +1,6 @@
 <h2 align="center">
   Manuel Gutierrez Portfolio<br/>
-  <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a>
+  <a href="https://manuel-gutierrez-portfolio.herokuapp.com/" target="_blank">Portfolio</a>
 </h2>
 
 <br/>
